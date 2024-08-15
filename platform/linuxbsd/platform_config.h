@@ -29,7 +29,7 @@
 /**************************************************************************/
 
 #ifdef __linux__
-#include <alloca.h>
+// #include <alloca.h>
 #endif
 
 #if defined(__FreeBSD__) || defined(__OpenBSD__) || defined(__NetBSD__)
